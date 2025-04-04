@@ -29,3 +29,5 @@ This repository contains an automated test suite for the Product Inventory API.
 4. Run the Tests using the below commmand: 
 
     - npm test
+  
+5. Pipeline will be automatically triggered on a push or a pull which I have specified in the yaml file.
